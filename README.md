@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @HernanMorel
 - 👀 I’m interested in Web Development and JavaScript.
 - 🌱 I’m currently learning Web Development.
--
 
 <!---
 HernanMorel/HernanMorel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
