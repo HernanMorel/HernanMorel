@@ -1,4 +1,4 @@
-# Hi there, I'm Hernán 👋
+# 👋 Hi there, I'm Hernán
 
 [Portfolio](https://hernanmorel.com/)
 
