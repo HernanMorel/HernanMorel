@@ -4,7 +4,7 @@
 
 - 🔭 I’m interested in Web-Development and Javascript
 - 🌱 I’m currently learning React JS
-- 🥅 2022 Goals: Learn more about web3 and blockchain
+- 🥅 2022 Goals: Learn more about data structures and algorithims
 
 ### Languages and Tools:
 
