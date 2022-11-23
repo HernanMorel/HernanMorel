@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning React JS
 - 🥅 2022 Goals: Learn more about data structures and algorithims
 
-### Languages and Tools:
+### Languages and Tools I use:
 
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
