@@ -1,12 +1,9 @@
 # 👋 Hi there, I'm Hernán
 
-[Portfolio](https://hernanmorel.com/)
+- 🔭 I’m interested in Frontend development and React
+- 🌱 2022 Goals: Learn more about data structures and algorithims
 
-- 🔭 I’m interested in Web-Development and Javascript
-- 🌱 I’m currently learning React JS
-- 🥅 2022 Goals: Learn more about data structures and algorithims
-
-### Languages and Tools I use:
+#### Languages and tools I use:
 
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
