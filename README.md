@@ -4,7 +4,7 @@
 
 Currently working as a Frontend developer at [Monchis](http://www.monchis.com.py/), a delivery and logistics company in Asunción, Paraguay. My main role involves maintaining and improving the in-house ERP (enterprise resource planning) application. Which is used to manage the accounting, procurement, and supply chain operations for the company.
 
-Reach me at ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/hernan-m/)
+Reach me at ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white https://www.linkedin.com/in/hernan-m/)
 
 #### Languages and tools I use on a day-to-day basis ⚙️:
 
