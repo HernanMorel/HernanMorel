@@ -1,9 +1,8 @@
 ### 👋🏼 Hi there, I'm Hernán
 
-🔭 I’m interested in Frontend development and React.js 
-🌱 2022 Goals: Learn more about data structures and algorithims
+🔭 I’m interested in Frontend development and React.js.
 
-Currently working as a Frontend developer at [Monchis](http://www.monchis.com.py/), a delivery and logistics company in Asunción, Paraguay. My main role involves maintaining and improving the in-house ERP (enterprise resource planning) software used to manage the accounting, procurement, and supply chain operations for the company.
+Currently working as a Frontend developer at [Monchis](http://www.monchis.com.py/), a delivery and logistics company in Asunción, Paraguay. My main role involves maintaining and improving the in-house ERP (enterprise resource planning) application. Which is used to manage the accounting, procurement, and supply chain operations for the company.
 
 #### Languages and tools I use on a day-to-day basis ⚙️:
 
