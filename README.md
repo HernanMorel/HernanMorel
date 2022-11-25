@@ -6,7 +6,7 @@ Currently working as a Frontend developer at [Monchis](http://www.monchis.com.py
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hernan-m/)
 
-##### Languages and tools I use on a day-to-day basis ⚙️:
+#### Languages and tools I use on a day-to-day basis ⚙️:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
