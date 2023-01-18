@@ -1,5 +1,5 @@
 <div align="center"><h3>👋🏼 Hi there, I'm Hernán</h3></div>
-<div align="justify">
+<div align="center">
  
 🔭 I’m interested in Frontend development and React.js, along with its corresponding frameworks/libraries .
 
