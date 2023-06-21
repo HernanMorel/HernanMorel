@@ -1,7 +1,7 @@
 <div align=""><h3>👋🏼 Hi there, I'm Hernán</h3></div>
 <div align="">
  
-🔭 I’m interested in Frontend development and React.js.
+🔭 I’m interested in Front-end development and React.js.
 
 I am currently employed as a Frontend Developer at [Monchis](http://www.monchis.com.py/), a delivery and logistics company based in Asunción, Paraguay. My primary responsibilities include maintaining and enhancing the company's in-house ERP (enterprise resource planning) application. This involves managing various aspects of the accounting, procurement, and logistics/supply chain operations for the organization.
 
