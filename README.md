@@ -3,7 +3,7 @@
  
 🔭 I’m interested in Front-end development and React.js.
 
-I am currently employed as a Frontend Developer at [Monchis](http://www.monchis.com.py/), a delivery and logistics company based in Asunción, Paraguay. My primary responsibilities include maintaining and enhancing the company's in-house ERP (enterprise resource planning) application. This involves managing various aspects of the accounting, procurement, and logistics/supply chain operations for the organization.
+Since May 2022, I have been employed as a Frontend Developer at [Monchis](http://www.monchis.com.py/) - a delivery and logistics firm that links merchants and consumers through its platform, in Asunción, Paraguay. My primary responsibility is to develop features for the in-house ERP and CRM applications, which runs on desktop platforms and is mainly used for managing the company‘s accounting, procurement, and logistics operations.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hernan-m/)
 
