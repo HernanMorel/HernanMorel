@@ -3,7 +3,7 @@
  
 🔭 I’m interested in Software Development with a focus on E-commerce.
 
-Since May 2022, I have been employed as a Frontend Developer at [Monchis](http://www.monchis.com.py/) - a delivery and logistics firm that links merchants and consumers through its platform, in Asunción, Paraguay. My primary responsibility is to develop features for the in-house ERP and CRM applications, which run on desktop platforms and are mainly used for managing the company‘s accounting, procurement, and logistics operations.
+Since May 2022, I have been employed as a Frontend Web and Mobile Developer at [Monchis](http://www.monchis.com.py/) - a delivery and logistics firm that links merchants and consumers through its platform, in Asunción, Paraguay. My primary responsibility is to develop features for the in-house ERP and CRM applications, which run on desktop platforms and are mainly used for managing the company‘s accounting, procurement, and logistics operations.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hernan-m/)
 
