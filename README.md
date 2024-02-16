@@ -3,8 +3,7 @@
  
 🔭 I'm interested in software development and I'm also passionate about creating innovative solutions to real-world problems.
 
-Since May 2022, I've been employed as a Frontend and Mobile developer at              [Monchis](http://www.monchis.com.py/) - a delivery and logistics firm that links merchants and consumers through its platform, in Asunción, Paraguay. My primary responsibility is to develop features for
-customer-facing mobile app, along with the in-house ERP and CRM applications, which run on desktop platforms and are mainly used for managing the company's accounting, procurement, and logistics operations.
+I am presently employed as a freelance/independent contractor, specializing in crafting web and mobile applications using React and React Native. I take pleasure in the process of designing and constructing applications, paying meticulous attention to detail. If you are interested in collaboration, please don't hesitate to contact me.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hernan-m/)
 
